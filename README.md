@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 #### I am Thiago
 - 🌱 I’m currently learning Programming =]
 <!--
