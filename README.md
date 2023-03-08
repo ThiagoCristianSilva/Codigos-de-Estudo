@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### I am Thiago
+- 🌱 I’m currently learning Programming =]
 <!--
 **ThiagoCristianSilva/ThiagoCristianSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
